@@ -16,11 +16,11 @@ Note that the GSE96058 (equivalent to GSE81538) data must be downloaded from GEO
 
 File descriptions:
 
-firehose_data_brca_rna_rpkm_TJedit20181026.R and firehose_data_brca_rna_rpkm_TJedit20181026.html contain the compiled R notebook for the analysis. The majority of the manuscript excluding the Swedish cohort (GSE81538) are included in these R files.
+ICIBM_Paper68_Supplement_code.rtfd.zip contains the R code for the analysis. The majority of the manuscript excluding the Swedish cohort (GSE81538) are included.
 
 gdac.broadinstitute.org_BRCA.Merge_rnaseq__illuminahiseq_rnaseq__unc_edu__Level_3__gene_expression__data.Level_3.2016012800.0.0 contains the RNA expression values used for the genes in the analysis.
 
-annot.Rdata is the gene and pseudogene annotation used during the analysis. This file is used int the R notebook file above.
+annot.Rdata is the gene and pseudogene annotation used during the analysis. This file is used int the R code above.
 
 brca_gse81538.R is the analysis performed on the Swedish cohort of patients (GSE81538). This file was used to generate Supplementary_table_1.txt.
 
