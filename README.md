@@ -18,7 +18,7 @@ File descriptions:
 
 ICIBM_Paper68_Supplement_code.rtfd.zip contains the R code for the analysis. The majority of the manuscript excluding the Swedish cohort (GSE81538) are included.
 
-gdac.broadinstitute.org_BRCA.Merge_rnaseq__illuminahiseq_rnaseq__unc_edu__Level_3__gene_expression__data.Level_3.2016012800.0.0 contains the RNA expression values used for the genes in the analysis.
+MANIFEST.txt contains the information of TCGA RNA expression data used for the genes in the analysis.
 
 annot.Rdata is the gene and pseudogene annotation used during the analysis. This file is used int the R code above.
 
