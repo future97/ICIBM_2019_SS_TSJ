@@ -1,14 +1,14 @@
 ## ICIBM_2019_SS_TSJ
 # Pseudogene-gene functional networks are prognostic of patient survival in breast cancer.
-Sasha Smerekanych1,2¶, Travis S Johnson2,3¶, Kun Huang3,4, Yan Zhang2,5*
+Sasha Smerekanych<sup>1,2¶</sup>, Travis S Johnson<sup>2,3¶</sup>, Kun Huang<sup>3,4</sup>, Yan Zhang<sup>2,5*</sup>
 
-1 Kenyon College, Gambier, OH 43022, United States
-2 Department of Biomedical Informatics, College of Medicine, The Ohio State University, Columbus, OH 43210, United States
-3 Department of Medicine, School of Medicine, Indiana University, Indianapolis, IN 46202, USA 
-4 Regenstrief Institute, Indiana University, Indianapolis, IN 46262, USA
-5 The Ohio State University Comprehensive Cancer Center (OSUCCC – James), Columbus, OH 43210, United States
-¶ These authors contributed equally to this work.
-* Correspondence: yan.zhang@osumc.edu
+<sup>1</sup> Kenyon College, Gambier, OH 43022, United States
+<sup>2</sup> Department of Biomedical Informatics, College of Medicine, The Ohio State University, Columbus, OH 43210, United States
+<sup>3</sup> Department of Medicine, School of Medicine, Indiana University, Indianapolis, IN 46202, USA 
+<sup>4</sup> Regenstrief Institute, Indiana University, Indianapolis, IN 46262, USA
+<sup>5</sup> The Ohio State University Comprehensive Cancer Center (OSUCCC – James), Columbus, OH 43210, United States
+<sup>¶</sup> These authors contributed equally to this work.
+<sup>*</sup> Correspondence: yan.zhang@osumc.edu
 
 This github contains the relevant R scripts and data for the paper above. 
 
