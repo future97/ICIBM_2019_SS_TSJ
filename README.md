@@ -1,6 +1,7 @@
 ## ICIBM_2019_SS_TSJ
 # Pseudogene-gene functional networks are prognostic of patient survival in breast cancer.
 Sasha Smerekanych1,2¶, Travis S Johnson2,3¶, Kun Huang3,4, Yan Zhang2,5*
+
 1 Kenyon College, Gambier, OH 43022, United States
 2 Department of Biomedical Informatics, College of Medicine, The Ohio State University, Columbus, OH 43210, United States
 3 Department of Medicine, School of Medicine, Indiana University, Indianapolis, IN 46202, USA 
